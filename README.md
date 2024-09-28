@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhisheksinghrajputt
+- 👋 Hi, I’m @abhisheksinghrajput
 - 👀 I’m interested in coding and new technology 
 - 🌱 I’m currently learning java
 - 💞️ 
